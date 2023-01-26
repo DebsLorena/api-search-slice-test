@@ -7,11 +7,11 @@
 
 <div align="center">
 
-<img src="./1.PNG" alt="daily.dev" height="250">
-<img src="./2.PNG" alt="daily.dev" height="250">
-<img src="./3.PNG" alt="daily.dev" height="250">
-<img src="./4.PNG" alt="daily.dev" height="250">
-<img src="./5.PNG" alt="daily.dev" height="250">
+<img src="./1.png" alt="daily.dev" height="250">
+<img src="./2.png" alt="daily.dev" height="250">
+<img src="./3.png" alt="daily.dev" height="250">
+<img src="./4.png" alt="daily.dev" height="250">
+<img src="./5.png" alt="daily.dev" height="250">
     
 </div>
 
